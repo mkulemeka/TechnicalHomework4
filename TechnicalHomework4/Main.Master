@@ -1,0 +1,19 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.Master.cs" Inherits="TechnicalHomework4.TechnicalMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <header>
+        <nav class="w-100 h-25 d-flex bg-black justify-content-center align-items-center">
+            <div><img src=""/></div>
+            <h1 class="text-bg-light">PetMed</h1>
+        </nav>
+    </header>
+</body>
+</html>
