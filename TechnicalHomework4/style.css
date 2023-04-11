@@ -8,3 +8,6 @@ header {
     background: #272932 !important;
 }
 
+body table td {
+    vertical-align: middle;
+}

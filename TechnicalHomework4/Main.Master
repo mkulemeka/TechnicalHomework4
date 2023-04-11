@@ -14,7 +14,7 @@
 <body>
     <header class="w-100 h-50 d-flex justify-content-center align-items-center">
             <div><img src=""/></div>
-            <h1 class="text-light">PetMed</h1>
+            <h1 class="text-light"><a href="Home.aspx" class=" text-decoration-none text-light">PetMed</a></h1>
     </header>
      <asp:ContentPlaceHolder ID="home" runat="server">
     </asp:ContentPlaceHolder>
